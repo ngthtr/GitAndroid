@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MilkTeaList>
+    <MilkTea id="1" name="Match Đá Xay" price="25"/>
+    <MilkTea id="2" name="Kem Sữa Đá" price="20"/>
+</MilkTeaList>

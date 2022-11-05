@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmployeeList>
+    <Employee id="1" name="Nguyễn Thị Trang" phone="0962105473"/>
+    <Employee id="2" name="Nguyễn Thế Trường" phone="023482349"/>
+</EmployeeList>

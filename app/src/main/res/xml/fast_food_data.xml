@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FastFoodList>
+    <FastFood id="1" name="Tropical" price="25000"/>
+    <FastFood id="2" name="Bánh Ngọt" price="30000"/>
+    <FastFood id="3" name="Cheese" price="30000"/>
+</FastFoodList>
